@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://kaggle.com/muhammedsalmanadnani" style="margin: 0 14px;">
-  <img src="https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF"
+  <img src="https://drive.google.com/file/d/1lnb71iJgEH0Gf_itZUN_TiPp30nVNmJN/view?usp=sharing"
        height="40"
        style="
          background:#8B5E3C;
