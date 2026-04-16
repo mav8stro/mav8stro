@@ -29,7 +29,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
   </a>
   <a href="https://kaggle.com/muhammedsalmanadnani">
-    <img src="https://img.shields.io/badge/Kaggle-FF0000?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
+         height="38"
+         style="background-color:white; padding:6px; border-radius:6px;" />
   </a>
   <a href="https://instagram.com/sal_mx.x_">
     <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
