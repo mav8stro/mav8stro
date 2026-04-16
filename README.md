@@ -31,7 +31,7 @@
   <a href="https://kaggle.com/muhammedsalmanadnani">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
          height="38"
-         style="background-color:white; padding:6px; border-radius:6px;" />
+         style="background-color:#8B5E3C; padding:6px 10px; border-radius:6px;" />
   </a>
   <a href="https://instagram.com/sal_mx.x_">
     <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
