@@ -23,18 +23,16 @@
 
 <p align="center">
   <a href="https://dev.to/mav8stro">
-    <img src="https://skillicons.dev/icons?i=devto" height="38"/>
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/muhammedsalmanadnani">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
-         height="38"
-         style="background-color:#8B5E3C; padding:6px 10px; border-radius:6px;" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sal_mx.x_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
