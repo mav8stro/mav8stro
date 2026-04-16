@@ -23,16 +23,18 @@
 
 <p align="center">
   <a href="https://dev.to/mav8stro">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=devto" height="50" style="border-radius:12px;" />
   </a>
   <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="border-radius:12px;" />
   </a>
   <a href="https://kaggle.com/muhammedsalmanadnani">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
+         height="50"
+         style="background:#ffffff; padding:10px; border-radius:12px;" />
   </a>
   <a href="https://instagram.com/sal_mx.x_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="border-radius:12px;" />
   </a>
 </p>
 
@@ -41,7 +43,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css" height="50" />
 </p>
 
 ---
