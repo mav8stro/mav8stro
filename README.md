@@ -38,14 +38,38 @@ AI & Data Science Student | Python Developer | Building Real-World Solutions
 
 <table>
 <tr>
-<td align="center"><a href="https://dev.to/mav8stro"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/muhammed-salman-n-337400364"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a></td>
-<td align="center"><a href="https://kaggle.com/muhammedsalmanadnani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"/></a></td>
+<td align="center">
+<a href="https://dev.to/mav8stro">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" height="30"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://kaggle.com/muhammedsalmanadnani">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="30"/>
+</a>
+</td>
 </tr>
 
 <tr>
-<td align="center"><a href="https://instagram.com/sal_mx.x_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a></td>
-<td align="center"><a href="https://dribbble.com/muhammed-salman-n"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30"/></a></td>
+<td align="center">
+<a href="https://instagram.com/sal_mx.x_">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://dribbble.com/muhammed-salman-n">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="30"/>
+</a>
+</td>
+
 <td></td>
 </tr>
 </table>
@@ -56,15 +80,31 @@ AI & Data Science Student | Python Developer | Building Real-World Solutions
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/></td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" height="40"/></td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</td>
 </tr>
 </table>
 
