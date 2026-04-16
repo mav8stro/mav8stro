@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Salman N</h1>
 <h3 align="center">AI & Data Science Student | Python Developer | Building Real-World Solutions</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mav8stro&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
+---------
 ## 🚀 About Me
 
 - 🔭 Building: **Greencycle Nexus – Smart Waste Management System**
@@ -33,7 +28,7 @@
   <a href="https://kaggle.com/muhammedsalmanadnani" style="margin: 0 14px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
          height="60"
-         style="background:#f2f2f2; padding:12px; border-radius:12px;" />
+         style="background:"defult"; padding:12px; border-radius:12px;" />
   </a>
 
   <a href="https://instagram.com/sal_mx.x_" style="margin: 0 14px;">
