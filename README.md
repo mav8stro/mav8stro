@@ -1,122 +1,50 @@
 <h1 align="center">Hi 👋, I'm Muhammed Salman N</h1>
-<h3 align="center">
-AI & Data Science Student | Python Developer | Building Real-World Solutions
-</h3>
+<h3 align="center">AI & Data Science Student | Python Developer | Building Real-World Solutions</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mav8stro" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mav8stro&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🚀 Work
+## 🚀 About Me
 
-- 🔭 I’m currently working on  
-  **[Greencycle Nexus – Smart Waste Management System](https://github.com/mav8stro)**  
-
-- 🌱 I’m currently learning  
-  **React, Advanced Flask, System Design, and Cloud Basics**  
-
-- 👨‍💻 All of my projects are available at  
-  🔗 https://github.com/mav8stro  
-
-- 💬 Ask me about  
-  **Python, React, Flask, AI tools, and building real-world projects**  
-
-- 📫 How to reach me  
-  **muhammedsalmanbinnoor@gmail.com**  
-
-- 📄 Resume  
-  🔗 https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view?usp=drive_link  
-
-- ⚡ Fun fact  
-  **I break things on purpose to understand how they work.**
+- 🔭 Currently building: **Greencycle Nexus – Smart Waste Management System**
+- 🌱 Learning: **React, Advanced Flask, System Design, Cloud**
+- 👯 Open to: **AI + Web Development collaborations**
+- 💬 Ask me about: **Python, React, Flask, AI tools**
+- 📫 Contact: **muhammedsalmanbinnoor@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view)
+- ⚡ Fun fact: *I break things on purpose to understand how they work.*
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-<table>
-<tr>
-<td align="center">
-<a href="https://dev.to/mav8stro">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/devdotto.svg" height="30"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://kaggle.com/muhammedsalmanadnani">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="30"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://instagram.com/sal_mx.x_">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://dribbble.com/muhammed-salman-n">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="30"/>
-</a>
-</td>
-
-<td></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://dev.to/mav8stro"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+  <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://kaggle.com/muhammedsalmanadnani"><img src="https://skillicons.dev/icons?i=kaggle" height="40"/></a>
+  <a href="https://instagram.com/sal_mx.x_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,mysql,linux,git,html,css,flask" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mav8stro&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight" />
 </p>
