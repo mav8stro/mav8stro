@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
        height="40"
        style="
-         background:#ffffff;
+         background:#8B5E3C;
          padding:10px;
          border-radius:12px;
          display:inline-block;
