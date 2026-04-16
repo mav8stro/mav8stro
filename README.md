@@ -31,11 +31,15 @@
   </a>
 
   <a href="https://kaggle.com/muhammedsalmanadnani" style="margin: 0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
-         height="60"
-         style="background:#ffffff; padding:12px; border-radius:12px;" />
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg"
+       height="40"
+       style="
+         background:#ffffff;
+         padding:10px;
+         border-radius:12px;
+         display:inline-block;
+       " />
+</a>
   <a href="https://instagram.com/sal_mx.x_" style="margin: 0 14px;">
     <img src="https://skillicons.dev/icons?i=instagram" height="60" style="border-radius:12px;" />
   </a>
