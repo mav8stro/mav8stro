@@ -11,11 +11,11 @@
 
 - 🔭 Building: **Greencycle Nexus – Smart Waste Management System**
 - 🌱 Learning: **React, Flask, System Design, Cloud**
-- 👯 Open to: **AI + Web collaborations**
-- 💬 Ask me: **Python, React, Flask**
+- 👯 Open to: **AI + Web Development collaborations**
+- 💬 Ask me: **Python, React, Flask, AI tools**
 - 📫 Email: **muhammedsalmanbinnoor@gmail.com**
 - 📄 Resume: [View](https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view)
-- ⚡ Fun fact: *I break things to understand them.*
+- ⚡ Fun fact: *I break things to understand how they work.*
 
 ---
 
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
   </a>
   <a href="https://kaggle.com/muhammedsalmanadnani">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="38" style="filter: invert(1);" />
+    <img src="https://img.shields.io/badge/Kaggle-FF0000?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sal_mx.x_">
     <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
