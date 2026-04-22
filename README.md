@@ -1,136 +1,155 @@
 <h1 align="center">Muhammed Salman N</h1>
 <p align="center"><b>AI & Data Science Student · Python Developer · Systems Builder</b></p>
 
+<!-- HERO ANIMATION -->
 <p align="center">
   <a href="https://github.com/mav8stro">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Greencycle+Nexus+%7C+Smart+Waste+Management;AI+%2B+Full+Stack+Development;Backend+%26+System+Design;Build+%E2%86%92+Measure+%E2%86%92+Improve+%E2%86%92+Scale" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Greencycle+Nexus+Builder;AI+%2B+Full+Stack+Developer;System+Thinker;Problem+Solver;Build+Fast+%E2%9A%A1;Scale+Smart+🚀" />
   </a>
 </p>
 
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0A66C2&height=140&section=header&text=Portfolio&fontColor=FFFFFF&fontSize=28"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header"/>
 </p>
 
 ---
 
-## ▸ Overview
+# 🚀 PROFILE
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=900&lines=Building+Real+World+Products;Learning+by+Shipping;AI+%2B+Web+Integration;Backend+Focused+Engineering" />
+</p>
 
 ```yaml
 Name: Muhammed Salman N
 Role: AI & Data Science Student
-Primary Stack: Python, Flask, React
-Current Build: Greencycle Nexus (Smart Waste Management)
-Focus: Backend Systems, APIs, ML Integration
-Availability: After first week of June (post semester exams)
+Focus: Backend Systems + AI Integration
+Project: Greencycle Nexus (Smart Waste Management)
+Availability: After first week of June
 Email: muhammedsalmanbinnoor@gmail.com
-Resume: https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view
 ```
 
 ---
 
-## ▸ Current Work
+# ⚡ LIVE ACTIONS
+
+<p align="center">
+  <a href="mailto:muhammedsalmanbinnoor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Now-00C2FF?style=for-the-badge&logo=googledrive"/>
+  </a>
+  <a href="https://github.com/mav8stro">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 🧠 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css,js,nodejs" />
+</p>
+
+<!-- ROTATING STYLE ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&lines=Python+%7C+Flask+%7C+React;Backend+Development;API+Design;System+Architecture;Continuous+Learning" />
+</p>
+
+---
+
+# 🔥 CURRENT BUILD
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Greencycle%20Nexus-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Waste%20Management-blue?style=for-the-badge"/>
+</p>
 
 ```diff
-+ Building: Greencycle Nexus – Smart Waste Management System
-+ Learning: React, Flask, System Design, Cloud
-+ Open to: AI + Web collaborations
-+ Strength: Problem solving via iterative builds
++ Smart Waste Management System
++ AI Classification + Web Dashboard
++ Real-world impact oriented system
 ```
 
 ---
 
-## ▸ Tech Stack
+# ⚙️ ENGINEERING LOOP
 
 <p align="center">
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" /></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=22&center=true&vCenter=true&width=900&lines=Think+in+Systems;Build+Fast;Debug+Hard;Optimize+Everything;Scale+Continuously" />
 </p>
 
----
-
-## ▸ Engineering Approach
-
-```text
-Define → Design → Build → Test → Iterate → Scale
+```
+Idea → Build → Break → Fix → Optimize → Scale
 ```
 
+---
+
+# 🌐 NETWORK
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=9A9A9A&center=true&vCenter=true&width=800&lines=System+Thinking;API-First+Design;Performance+Focused;Ship+Fast%2C+Refactor+Continuously" />
+  <a href="https://dev.to/mav8stro">
+    <img src="https://skillicons.dev/icons?i=devto" height="60"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+  </a>
+  <a href="https://kaggle.com/muhammedsalmanadnani">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
+  </a>
+  <a href="https://instagram.com/sal_mx.x_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+  </a>
 </p>
 
 ---
 
-## ▸ Connect
-
-<p align="center">
-  <a href="https://dev.to/mav8stro" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/muhammedsalmanadnani" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sal_mx.x_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ▸ GitHub Metrics
+# 📊 GITHUB LIVE METRICS
 
 <p align="center">
   <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=transparent&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=transparent&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=transparent&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-## ▸ Activity
+# 📈 ACTIVITY GRAPH
 
 <p align="center">
   <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&bg_color=0B1220&color=00C2FF&line=00C2FF&point=FFFFFF&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night"/>
   </a>
 </p>
 
 ---
 
-## ▸ Resume
+# 🧩 LIVE MODE
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-Open-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
 ---
 
-## ▸ Note
-
-```text
-I break systems to understand them, then rebuild them better.
-```
+# ⚡ FINAL SIGNAL
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:0B1220&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=900&lines=Build+Fast.;Learn+Faster.;Scale+Everything." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=160&section=footer"/>
 </p>
