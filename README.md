@@ -27,6 +27,7 @@ Focus: Backend Systems + AI Integration
 Current Project: Greencycle Nexus
 Availability: After first week of June
 Email: muhammedsalmanbinnoor@gmail.com
+GitHub: mav8stro / mav8stro-dev
 ```
 
 ---
@@ -42,11 +43,6 @@ Email: muhammedsalmanbinnoor@gmail.com
   </a>
 </p>
 
-```diff
-+ Greencycle Nexus → Smart Waste Management System
-+ Volunteer App → Full Stack Volunteer Management Platform
-```
-
 ---
 
 # 🧠 TECH STACK
@@ -55,71 +51,65 @@ Email: muhammedsalmanbinnoor@gmail.com
   <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css,js,nodejs" />
 </p>
 
+---
+
+# 🌐 FULL NETWORK
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&lines=Python+%7C+Flask+%7C+React;Backend+Development;API+Design;System+Architecture;Continuous+Learning" />
+
+<a href="https://github.com/mav8stro">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://dev.to/mav8stro">
+  <img src="https://skillicons.dev/icons?i=devto" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://kaggle.com/muhammedsalmanadnani">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="55" style="background:white;padding:8px;border-radius:10px;"/>
+</a>
+
+<a href="https://medium.com/@muhammedsalmanbinnoor">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="55" style="background:white;padding:8px;border-radius:10px;"/>
+</a>
+
+<a href="https://www.behance.net/muhammedsalman51">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="55" style="background:white;padding:8px;border-radius:10px;"/>
+</a>
+
+<a href="https://dribbble.com/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="55" style="background:white;padding:8px;border-radius:10px;"/>
+</a>
+
+<a href="https://codeforces.com/profile/darkjokerjr">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="55" style="background:white;padding:8px;border-radius:10px;"/>
+</a>
+
+<a href="https://instagram.com/sal_mx.x_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+<a href="https://discord.com/users/1416840105812824114">
+  <img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
 </p>
 
 ---
 
-# ⚙️ ENGINEERING LOOP
+# 📊 GITHUB METRICS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=22&center=true&vCenter=true&width=900&lines=Think+in+Systems;Build+Fast;Debug+Hard;Optimize+Everything;Scale+Continuously" />
-</p>
-
-```
-Idea → Build → Break → Fix → Optimize → Scale
-```
-
----
-
-# 🌐 NETWORK
-
-<p align="center">
-  <a href="https://dev.to/mav8stro">
-    <img src="https://skillicons.dev/icons?i=devto" height="60"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-  </a>
-  <a href="https://kaggle.com/muhammedsalmanadnani">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
-  </a>
-  <a href="https://dribbble.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
-  </a>
-  <a href="https://instagram.com/sal_mx.x_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
-  </a>
-</p>
-
----
-
-# 📊 GITHUB LIVE METRICS
-
-<p align="center">
-  <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <a href="https://github.com/mav8stro">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -134,15 +124,7 @@ Idea → Build → Break → Fix → Optimize → Scale
 
 ---
 
-# 🧩 LIVE MODE
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
-# ⚡ FINAL SIGNAL
+# ⚡ FINAL
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=900&lines=Build+Fast.;Learn+Faster.;Scale+Everything." />
