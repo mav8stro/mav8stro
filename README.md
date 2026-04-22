@@ -1,14 +1,13 @@
 <h1 align="center">Muhammed Salman N</h1>
 <p align="center"><b>AI & Data Science Student · Python Developer · Systems Builder</b></p>
 
-<!-- HERO ANIMATION -->
+<!-- HERO -->
 <p align="center">
   <a href="https://github.com/mav8stro">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Greencycle+Nexus+Builder;AI+%2B+Full+Stack+Developer;System+Thinker;Problem+Solver;Build+Fast+%E2%9A%A1;Scale+Smart+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Greencycle+Nexus+Builder;AI+%2B+Full+Stack+Developer;System+Thinker;Problem+Solver;Build+Fast+⚡;Scale+Smart+🚀" />
   </a>
 </p>
 
-<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header"/>
 </p>
@@ -25,26 +24,28 @@
 Name: Muhammed Salman N
 Role: AI & Data Science Student
 Focus: Backend Systems + AI Integration
-Project: Greencycle Nexus (Smart Waste Management)
+Current Project: Greencycle Nexus
 Availability: After first week of June
 Email: muhammedsalmanbinnoor@gmail.com
 ```
 
 ---
 
-# ⚡ LIVE ACTIONS
+# 🔥 PROJECTS
 
 <p align="center">
-  <a href="mailto:muhammedsalmanbinnoor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <a href="https://github.com/mav8stro/Greencycle-Nexus">
+    <img src="https://img.shields.io/badge/Greencycle%20Nexus-Live%20Repo-00C853?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Now-00C2FF?style=for-the-badge&logo=googledrive"/>
-  </a>
-  <a href="https://github.com/mav8stro">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/mav8stro/volunteer_app">
+    <img src="https://img.shields.io/badge/Volunteer%20App-Live%20Repo-2962FF?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+```diff
++ Greencycle Nexus → Smart Waste Management System
++ Volunteer App → Full Stack Volunteer Management Platform
+```
 
 ---
 
@@ -54,25 +55,9 @@ Email: muhammedsalmanbinnoor@gmail.com
   <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css,js,nodejs" />
 </p>
 
-<!-- ROTATING STYLE ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=900&lines=Python+%7C+Flask+%7C+React;Backend+Development;API+Design;System+Architecture;Continuous+Learning" />
 </p>
-
----
-
-# 🔥 CURRENT BUILD
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Greencycle%20Nexus-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Waste%20Management-blue?style=for-the-badge"/>
-</p>
-
-```diff
-+ Smart Waste Management System
-+ AI Classification + Web Dashboard
-+ Real-world impact oriented system
-```
 
 ---
 
@@ -99,6 +84,9 @@ Idea → Build → Break → Fix → Optimize → Scale
   </a>
   <a href="https://kaggle.com/muhammedsalmanadnani">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
+  </a>
+  <a href="https://dribbble.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
   </a>
   <a href="https://instagram.com/sal_mx.x_">
     <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
@@ -131,6 +119,16 @@ Idea → Build → Break → Fix → Optimize → Scale
 <p align="center">
   <a href="https://github.com/mav8stro">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night"/>
+  </a>
+</p>
+
+---
+
+# 📫 RESUME
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qsi0W9mr8O9bUbd_f8UI-i3bgVFZXcDg/view">
+    <img src="https://img.shields.io/badge/View%20Resume-Open-00C2FF?style=for-the-badge&logo=googledrive"/>
   </a>
 </p>
 
