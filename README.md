@@ -1,12 +1,17 @@
+````md
 <div align="center">
 
-# ⚡ Muhammed Salman N
+# ⚡ MUHAMMED SALMAN N
 
 ### AI Engineer • Full Stack Developer • Systems Architect • Startup Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1200&lines=AI+%2B+Full+Stack+Developer;Building+Real-World+Systems;Backend+Engineering+Focused;Startup+Mindset+⚡;Build+Fast+•+Scale+Smart+🚀;Greencycle+Nexus+Creator;React+%2B+Node+%2B+Django+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=AI+Engineer+%7C+Systems+Architect;Full+Stack+Developer+⚡;Building+Scalable+Real-World+Platforms;Backend+Engineering+%2B+AI+Integration;Startup+Focused+Builder+🚀" />
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=mav8stro&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://img.shields.io/github/followers/mav8stro?style=for-the-badge&color=00F7FF"/>
 <img src="https://img.shields.io/github/stars/mav8stro?style=for-the-badge&color=0066FF"/>
@@ -29,68 +34,53 @@
 ```yaml
 Name: Muhammed Salman N
 
-Role:
+Roles:
   - AI & Data Science Student
   - Full Stack Developer
-  - Systems Builder
+  - Systems Architect
+  - Startup-Focused Builder
 
-Focus:
+Specialization:
   - Backend Engineering
   - AI Integration
-  - Scalable System Design
-  - Startup Product Development
+  - Scalable Architectures
+  - Workflow Automation
+  - Product Development
 
-Current Mission:
-  Building practical systems that solve real-world problems
-  through intelligent software engineering and automation.
+Mission:
+  Building practical real-world systems
+  through scalable software engineering
+  and intelligent automation.
 
-Primary Stack:
+Core Stack:
   - Python
   - React.js
   - Node.js
   - Django
   - Flask
+  - PostgreSQL
 
-Learning Philosophy:
+Philosophy:
   Learn by building.
   Build by solving.
-  Scale by iterating.
-
-Current Status:
-  Designing scalable systems and experimenting
-  with AI-powered applications.
-```
+  Scale through iteration.
+````
 
 ---
 
-# 🚀 Developer Philosophy
+# ⚡ Developer Mindset
 
 <div align="center">
 
-| Principle | Meaning |
-|---|---|
-| ⚡ Build Fast | Ship ideas rapidly and validate quickly |
-| 🧠 Learn Continuously | Improve through execution and iteration |
-| 🏗️ Think in Systems | Focus on scalable architectures |
-| 🚀 Scale Smart | Optimize before expanding |
-| 💡 Solve Real Problems | Build products with practical impact |
+| Principle              | Focus                        |
+| ---------------------- | ---------------------------- |
+| ⚡ Build Fast           | Rapid MVP execution          |
+| 🧠 Learn Continuously  | Improve through iteration    |
+| 🏗️ Think in Systems   | Architect scalable solutions |
+| 🚀 Scale Smart         | Optimize before expansion    |
+| 💡 Solve Real Problems | Build with practical impact  |
 
 </div>
-
----
-
-# 🔥 Current Focus Areas
-
-```text
-✔ Full Stack Development
-✔ AI-Powered Systems
-✔ Backend Engineering
-✔ API Development
-✔ Startup Product Building
-✔ Workflow Automation
-✔ System Design
-✔ Problem Solving Through Software
-```
 
 ---
 
@@ -98,61 +88,9 @@ Current Status:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,django,flask,mysql,postgresql,linux,git,github,html,css,js,vscode,figma,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,django,flask,mysql,postgresql,linux,docker,git,github,html,css,js,vscode,figma&perline=8" />
 
 </div>
-
----
-
-# ⚛ Frontend Development
-
-```text
-• React.js
-• Modern Responsive UI
-• Component-Based Architecture
-• Frontend State Management
-• Dynamic User Interfaces
-• SPA Development
-```
-
----
-
-# 🟢 Backend Engineering
-
-```text
-• Node.js APIs
-• Flask Systems
-• Django Architectures
-• REST API Design
-• Authentication Systems
-• Scalable Backend Logic
-```
-
----
-
-# 🧠 AI & Data Science
-
-```text
-• AI System Integration
-• Intelligent Workflows
-• Data Processing
-• Automation Systems
-• Applied Machine Learning
-• Analytical Thinking
-```
-
----
-
-# 🏗️ System Design
-
-```text
-• Scalable Architectures
-• Workflow Automation
-• Database Design
-• Backend Optimization
-• Modular Development
-• Product-Oriented Engineering
-```
 
 ---
 
@@ -164,52 +102,106 @@ Current Status:
 
 ### Smart Waste Management & Civic Automation Platform
 
-<p align="center">
-  <a href="https://github.com/mav8stro/Greencycle-Nexus">
-    <img src="https://img.shields.io/badge/Greencycle%20Nexus-Repository-00C853?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/mav8stro/Greencycle-Nexus">
+  <img src="https://img.shields.io/badge/View%20Repository-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Architecture-Multi--Role-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-Enabled-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Flask-orange?style=flat-square"/>
+
+</div>
 
 ```text
-A modern civic infrastructure platform designed
-to automate waste collection workflows,
-approval systems, and operational analytics.
+A modern civic infrastructure platform built to automate
+waste collection workflows, approval systems,
+and operational analytics.
+
+Core Features:
+✔ Multi-role authentication
+✔ Smart pickup scheduling
+✔ Workflow automation
+✔ Payment tracking
+✔ Analytics dashboard
+✔ Operational management
 
 Tech Stack:
 • Flask
 • SQLite
 • JavaScript
 • HTML/CSS
+```
 
-Key Features:
-✔ Multi-role architecture
-✔ Waste workflow automation
-✔ Payment tracking
-✔ Pickup scheduling
-✔ Dashboard analytics
+---
+
+## 🆘 ZimoFirstAid
+
+### Emergency Assistance & First Aid Response Platform
+
+<div align="center">
+
+<a href="https://github.com/mav8stro/zimofirstaid">
+  <img src="https://img.shields.io/badge/View%20Repository-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/System-Emergency%20Response-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Real%20World-important?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mission-Life%20Saving-critical?style=flat-square"/>
+
+</div>
+
+```text
+An emergency assistance and first-aid platform
+focused on rapid response workflows,
+accessibility, and emergency support systems.
+
+Core Features:
+✔ Emergency guidance workflows
+✔ First-aid assistance system
+✔ Responsive user interface
+✔ Backend workflow architecture
+✔ Real-time support concepts
+✔ Community-focused safety platform
+
+Tech Stack:
+• Full Stack Architecture
+• API Integration
+• Responsive UI
+• Backend Systems
 ```
 
 ---
 
 ## 🤝 Volunteer Management Platform
 
-<p align="center">
-  <a href="https://github.com/mav8stro/volunteer_app">
-    <img src="https://img.shields.io/badge/Volunteer%20Platform-Repository-2962FF?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+### Community Coordination & Workflow System
+
+<div align="center">
+
+<a href="https://github.com/mav8stro/volunteer_app">
+  <img src="https://img.shields.io/badge/View%20Repository-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ```text
 A volunteer coordination and management platform
-focused on workflow organization and scalable
-community operations.
+focused on scalable community operations
+and workflow organization.
 
-Features:
+Core Features:
 ✔ Volunteer registration
 ✔ Event coordination
 ✔ Role management
 ✔ Activity tracking
-✔ Scalable workflow system
+✔ Workflow automation
+✔ Scalable operational structure
 ```
 
 ---
@@ -222,59 +214,11 @@ Features:
 flowchart LR
 
 A[💡 Idea] --> B[⚡ Build MVP]
-
 B --> C[🧪 Test System]
-
 C --> D[📊 Analyze]
-
 D --> E[🚀 Improve]
-
 E --> F[📈 Scale]
 ```
-
-</div>
-
----
-
-# 🌐 Professional Network
-
-<div align="center">
-
-<a href="https://github.com/mav8stro">
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
-</a>
-
-<a href="https://dev.to/mav8stro">
-  <img src="https://skillicons.dev/icons?i=devto" height="60"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
-
-<a href="https://kaggle.com/muhammedsalmanadnani">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
-</a>
-
-<a href="https://medium.com/@muhammedsalmanbinnoor">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
-</a>
-
-<a href="https://www.behance.net/muhammedsalman51">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
-</a>
-
-<a href="https://codeforces.com/profile/darkjokerjr">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
-</a>
-
-<a href="https://instagram.com/sal_mx.x_">
-  <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
-</a>
-
-<a href="https://discord.com/users/1416840105812824114">
-  <img src="https://skillicons.dev/icons?i=discord" height="60"/>
-</a>
 
 </div>
 
@@ -312,15 +256,47 @@ E --> F[📈 Scale]
 
 ---
 
+# 🌐 Professional Network
+
+<div align="center">
+
+<a href="https://github.com/mav8stro">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+</a>
+
+<a href="https://dev.to/mav8stro">
+<img src="https://skillicons.dev/icons?i=devto" height="60"/>
+</a>
+
+<a href="https://instagram.com/sal_mx.x_">
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
+</a>
+
+<a href="https://medium.com/@muhammedsalmanbinnoor">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
+</a>
+
+<a href="https://www.behance.net/muhammedsalman51">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="60" style="background:white;padding:10px;border-radius:14px;"/>
+</a>
+
+</div>
+
+---
+
 # 🎯 Current Goals
 
 ```text
-🚀 Build scalable full stack systems
-🧠 Improve AI engineering skills
+🚀 Build scalable production-grade systems
+🧠 Improve AI engineering capabilities
 ⚡ Master backend architecture
 🌍 Create impactful real-world products
-📈 Grow as a startup-focused developer
-🏗️ Build production-ready applications
+📈 Grow startup-focused technical expertise
+🏗️ Build intelligent automation systems
 ```
 
 ---
@@ -345,7 +321,7 @@ E --> F[📈 Scale]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Build+Fast.;Learn+Faster.;Scale+Everything.;Systems+Over+Complexity.;Execution+Creates+Opportunity." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Build+Fast.;Learn+Faster.;Scale+Everything.;Systems+Over+Complexity.;Execution+Creates+Opportunity."/>
 
 </div>
 
@@ -356,3 +332,4 @@ E --> F[📈 Scale]
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0066FF,100:00F7FF&text=Keep%20Building%20🚀&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
+```
