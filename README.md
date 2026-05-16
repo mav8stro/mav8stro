@@ -216,17 +216,7 @@ Core Features:
 
 ---
 
-## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
