@@ -1,4 +1,4 @@
-<h1 align="center">⚡ MUHAMMED SALMAN N</h1>
+<h1 align="center">⚡ MUHAMMED SALMAN N ⚡</h1>
 <h3 align="center">AI Engineer • Full Stack Developer • Systems Architect • Startup Builder</h3>
 
 <p align="center">
