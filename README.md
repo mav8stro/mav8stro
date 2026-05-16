@@ -1,8 +1,8 @@
 <h1 align="center">⚡ MUHAMMED SALMAN N ⚡</h1>
-<h3 align="center">AI & DATASCIENCE Engineer • Full Stack Developer • Systems Architect • Startup Builder</h3>
+<h3 align="center">AI & DataScience Engineer • Full Stack Developer • Systems Architect • Startup Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineering-00F7FF?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/AI & DataScience-Engineering-00F7FF?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/FullStack-Development-0066FF?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Architecture-FF6B00?style=for-the-badge&logo=python" />
 </p>
