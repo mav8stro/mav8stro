@@ -1,5 +1,5 @@
 <h1 align="center">⚡ MUHAMMED SALMAN N ⚡</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Systems Architect • Startup Builder</h3>
+<h3 align="center">AI & DATASCIENCE Engineer • Full Stack Developer • Systems Architect • Startup Builder</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Engineering-00F7FF?style=for-the-badge&logo=openai" />
