@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,25:302B63,50:24243e,75:1a3c4f,100:00F7FF&text=MUHAMMED%20SALMAN%20N&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Startup%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Turning+Ideas+Into+Real-World+AI+Products;Full-Stack+%2B+Backend+%2B+Machine+Learning;Idea+%E2%86%92+MVP+%E2%86%92+Ship+%E2%86%92+Scale+%F0%9F%9A%80;Currently+Shipping%3A+E-Patient+%F0%9F%8F%A5" />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=800&size=30&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Turning+Ideas+Into+Real-World+AI+Products;Full-Stack+%2B+Backend+%2B+Machine+Learning;Idea+%E2%86%92+MVP+%E2%86%92+Ship+%E2%86%92+Scale+%F0%9F%9A%80;Currently+Shipping%3A+E-Patient+%F0%9F%8F%A5" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/⚡_STATUS-ACTIVELY_BUILDING-00F7FF?style=for-the-badge&labelColor=0F0C29"/>
-  <img src="https://img.shields.io/badge/🎯_FOCUS-AI_×_HEALTHCARE-FF6B00?style=for-the-badge&labelColor=0F0C29"/>
-  <img src="https://img.shields.io/badge/🚀_MODE-SHIP_FAST-00C853?style=for-the-badge&labelColor=0F0C29"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00F7FF?style=for-the-badge&labelColor=0F0C29"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI_x_HEALTHCARE-FF6B00?style=for-the-badge&labelColor=0F0C29"/>
+  <img src="https://img.shields.io/badge/MODE-SHIP_FAST-00C853?style=for-the-badge&labelColor=0F0C29"/>
 </p>
 
 <p>
@@ -17,7 +17,14 @@
   <img src="https://img.shields.io/github/followers/mav8stro?style=for-the-badge&color=00C853&labelColor=0F0C29"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--
+  SNAKE ANIMATION — this only works after a one-time setup:
+  1. Create a repo named exactly "mav8stro" (your GitHub username) if you don't have one — this is the special profile-README repo.
+  2. Add .github/workflows/snake.yml to that repo with the contents in the "Setup Snippets" section below.
+  3. Commit — GitHub Actions will run it, create an "output" branch, and generate the SVG at the URL below.
+  Until that workflow has run at least once, this image will show as broken.
+-->
+<img src="https://raw.githubusercontent.com/mav8stro/mav8stro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -63,12 +70,12 @@ I'm an **AI & Data Science engineer and full-stack developer** who takes product
 
 ```mermaid
 flowchart LR
-    A[💡 IDEA] --> B[🔍 RESEARCH]
-    B --> C[🧪 MVP]
-    C --> D[⚙️ DEVELOPMENT]
-    D --> E[🧷 TESTING]
-    E --> F[🚀 DEPLOYMENT]
-    F --> G[🔁 ITERATION]
+    A[IDEA] --> B[RESEARCH]
+    B --> C[MVP]
+    C --> D[DEVELOPMENT]
+    D --> E[TESTING]
+    E --> F[DEPLOYMENT]
+    F --> G[ITERATION]
     G -.continuous feedback.-> B
 
     style A fill:#0F0C29,stroke:#00F7FF,stroke-width:2px,color:#fff
@@ -92,30 +99,30 @@ Every project I ship moves through this loop — nothing skips straight to "scal
 
 ```mermaid
 flowchart TB
-    subgraph Users["👥 User Layer"]
-        P[🧑 Patient]
-        D[🩺 Doctor]
-        H[🏥 Hospital Admin]
+    subgraph UserLayer[User Layer]
+        PAT[Patient]
+        DOC[Doctor]
+        ADM[Hospital Admin]
     end
 
-    subgraph Core["⚙️ E-Patient Platform"]
-        UI[💻 Web Portal]
-        API[🔌 API Layer]
-        AI[🤖 AI Pre-Consultation Engine]
-        DB[(🗄️ Aggregated Hospital Data)]
+    subgraph CoreLayer[E-Patient Platform]
+        UI[Web Portal]
+        API[API Layer]
+        AIENGINE[AI Pre-Consultation Engine]
+        DB[(Aggregated Hospital Data)]
     end
 
-    P --> UI
-    D --> UI
-    H --> UI
+    PAT --> UI
+    DOC --> UI
+    ADM --> UI
     UI --> API
-    API --> AI
+    API --> AIENGINE
     API --> DB
-    AI --> DB
+    AIENGINE --> DB
 
-    style Users fill:#0F0C29,stroke:#00F7FF,color:#fff
-    style Core fill:#1a1a4f,stroke:#FF6B00,color:#fff
-    style AI fill:#FF6B00,stroke:#FF6B00,color:#000
+    style UserLayer fill:#0F0C29,stroke:#00F7FF,color:#fff
+    style CoreLayer fill:#1a1a4f,stroke:#FF6B00,color:#fff
+    style AIENGINE fill:#FF6B00,stroke:#FF6B00,color:#000
     style DB fill:#00C853,stroke:#00C853,color:#000
 ```
 
@@ -250,10 +257,10 @@ Drives classroom engagement through live quizzes and real-time interaction, buil
 timeline
     title From Idea to Shipped Product
     Concept : Problem identified : Real-world pain point mapped
-    Research : Market & technical research : Feasibility validated
+    Research : Market and technical research : Feasibility validated
     MVP : Minimum viable build : Core loop proven
     Development : Full feature build-out : Architecture hardens
-    Testing : Validation against real usage : Bugs & edge cases surfaced
+    Testing : Validation against real usage : Bugs surfaced
     Deployment : Shipped to production : Live for real users
     Iteration : Continuous improvement : Feedback loop closes
 ```
@@ -278,15 +285,11 @@ timeline
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=mav8stro&theme=tokyonight&hide_border=true" height="175"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mav8stro&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -303,8 +306,43 @@ timeline
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=2000&pause=900&color=FF6B00&center=true&vCenter=true&width=700&lines=Build.+Learn.+Ship.+Scale.+%F0%9F%9A%80;Real+Products.+Real+Users.+Real+Impact." />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=24&duration=2000&pause=900&color=FF6B00&center=true&vCenter=true&width=700&lines=Build.+Learn.+Ship.+Scale.+%F0%9F%9A%80;Real+Products.+Real+Users.+Real+Impact." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,50:302B63,100:0F0C29&section=footer&animation=twinkling"/>
 
 </div>
+
+---
+
+## ⚙️ Setup Snippets (do this once for the snake animation to work)
+
+Create `.github/workflows/snake.yml` in your **`mav8stro/mav8stro`** repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mav8stro
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it once, let the Action run, and the snake image in this README will start rendering from your real contribution graph instead of showing broken.
