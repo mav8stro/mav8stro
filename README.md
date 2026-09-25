@@ -1,340 +1,214 @@
-<h1 align="center">⚡ MUHAMMED SALMAN N ⚡</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Engineer • Full-Stack Developer • Backend Developer • Startup Builder
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:2C5364,100:00F7FF&text=Muhammed%20Salman%20N&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20%7C%20Startup%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-00F7FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-0066FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Node.js-FF6B00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Builder-Startup%20Focused-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Real-World+Products;Full-Stack+%2B+Backend+%2B+Data+Science;Idea+%E2%86%92+MVP+%E2%86%92+Ship+%E2%86%92+Scale+%F0%9F%9A%80;Currently+Building%3A+E-Patient+%F0%9F%8F%A5" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mav8stro&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/mav8stro?style=for-the-badge&color=00C853&labelColor=black"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=for-the-badge&logo=rocket"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Building+Real--World+Digital+Products;Backend+%2B+AI+Integration;Startup+Focused+Builder+🚀" />
-</p>
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm an **AI & Data Science engineer and full-stack developer** focused on building practical software products that solve real-world problems.
+I'm an **AI & Data Science engineer and full‑stack developer** who turns ideas into working, real‑world software — end to end.
 
-My interests sit at the intersection of:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 💻 Full-Stack Development
-* ⚙️ Backend Engineering
-* 🔌 API & System Integration
-* 🚀 Startup & Product Development
-* 🧠 Intelligent Automation
+**🎯 What drives me**
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data-driven decision systems
+- ⚙️ Backend architecture & API design
+- 🔌 System integration & automation
+- 🚀 Startup-focused product building
 
-I enjoy taking an idea from **concept → development → testing → deployment → iteration**.
+</td>
+<td width="50%" valign="top">
+
+**⚡ How I work**
+- Ship fast, learn faster
+- Build for real users, not demos
+- Architecture scales *after* value is proven
+- Iterate relentlessly
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ My Build Pipeline
 
-```text
-AI Applications
-      ↓
-Full-Stack Platforms
-      ↓
-Backend & API Systems
-      ↓
-Data-Driven Applications
-      ↓
-Automation & Intelligent Workflows
-      ↓
-Real-World Products
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🔍 Research]
+    B --> C[🧪 MVP]
+    C --> D[⚙️ Development]
+    D --> E[🧷 Testing]
+    E --> F[🚀 Deployment]
+    F --> G[🔁 Iteration]
+    G -.feedback.-> B
+
+    style A fill:#0F2027,stroke:#00F7FF,color:#fff
+    style B fill:#142d3d,stroke:#00F7FF,color:#fff
+    style C fill:#1a3c4f,stroke:#00F7FF,color:#fff
+    style D fill:#204a5f,stroke:#00F7FF,color:#fff
+    style E fill:#26596f,stroke:#00F7FF,color:#fff
+    style F fill:#00C853,stroke:#00C853,color:#000
+    style G fill:#FF6B00,stroke:#FF6B00,color:#000
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ♻️ GreenCycle Nexus
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-**Smart Waste Management Platform**
+### 🏥 E-Patient
+**AI-assisted pre-consultation healthcare portal**
+Aggregates doctors from multiple hospitals into one platform for patients, doctors & admins.
 
-GreenCycle Nexus is a technology-focused project exploring digital solutions for **waste management, recycling, and sustainable operations**.
+`Full-Stack` `Healthcare` `AI`
 
-### Focus Areas
+📦 `mav8stro/E-Patient`
 
-* ♻️ Waste management
-* 🌱 Sustainability
-* 📊 Data-driven systems
-* ⚙️ Digital workflows
-* 💻 Full-stack development
-* 🚀 Real-world civic applications
+</td>
+<td width="33%" valign="top">
 
-**Repository:** `mav8stro/Greencycle-Nexus`
+### ♻️ GreenCycle Nexus
+**Smart waste management platform**
+Digital solutions for recycling, sustainability & civic operations.
 
----
+`Sustainability` `Full-Stack`
 
-## 🏥 E-Patient
+📦 `mav8stro/Greencycle-Nexus`
 
-**Digital Healthcare Application**
+</td>
+<td width="33%" valign="top">
 
-E-Patient is a healthcare-focused software project designed around the idea of improving **digital interaction between patients, healthcare services, and information systems**.
+### 🤝 Volunteer Nexus
+**Volunteer coordination platform**
+Manages activities, users & community workflows end-to-end.
 
-### Focus Areas
+`Web App` `Workflow`
 
-* 🏥 Healthcare technology
-* 👤 Patient-focused systems
-* 📊 Digital information management
-* 🔐 Application workflows
-* 💻 Full-stack development
+📦 `mav8stro/Volunteer-Nexus`
 
-**Repository:** `mav8stro/E-Patient`
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
----
+### ♻️ GreenCycle
+**Collaborative sustainability build**
+Experimenting with tech-driven waste management approaches.
 
-## 🤝 Volunteer Nexus
+`Collaboration` `Sustainability`
 
-**Volunteer Management Platform**
+📦 `muhammedfahim438-ctrl/Greencycle`
 
-Volunteer Nexus focuses on building a digital platform for **organizing volunteers, coordinating activities, and managing community-oriented workflows**.
+</td>
+<td width="33%" valign="top">
 
-### Focus Areas
+### 🆘 ZimoFirstAid
+**Emergency assistance platform**
+Fast, accessible first-aid & safety information.
 
-* 🤝 Volunteer management
-* 📅 Activity coordination
-* 👥 User management
-* ⚙️ Workflow systems
-* 🌐 Web application development
+`Accessibility` `Community Tech`
 
-**Repository:** `mav8stro/Volunteer-Nexus`
+📦 `mav8stro/zimofirstaid`
 
----
+</td>
+<td width="33%" valign="top">
 
-## ♻️ GreenCycle
+### 🧠 ClassQuiz Live
+**Real-time interactive quiz platform**
+Live classroom engagement & learning activities.
 
-**Collaborative Sustainability Project**
+`EdTech` `Real-Time`
 
-A collaborative GreenCycle project focused on exploring technology-driven approaches to **waste management and sustainability**.
+📦 `mav8stro/classquiz-live`
 
-### Focus Areas
-
-* ♻️ Recycling & waste management
-* 🌱 Sustainability
-* 💻 Software development
-* 🤝 Collaborative development
-* 🚀 Product experimentation
-
-**Repository:** `muhammedfahim438-ctrl/Greencycle`
-
----
-
-## 🆘 ZimoFirstAid
-
-**First Aid & Emergency Assistance Platform**
-
-ZimoFirstAid is a project focused on using software to support **first-aid awareness, emergency assistance, and accessible safety information**.
-
-### Focus Areas
-
-* 🆘 Emergency assistance
-* 🩹 First-aid systems
-* 📱 Digital accessibility
-* ⚡ Rapid information access
-* 🌍 Community-focused technology
-
-**Repository:** `mav8stro/zimofirstaid`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 ClassQuiz Live
+## 🛠️ Tech Stack
 
-**Interactive Quiz & Learning Platform**
+<div align="center">
 
-ClassQuiz Live is an educational technology project focused on creating an interactive environment for **quizzes, classroom engagement, and real-time learning activities**.
+**AI & Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" height="50"/>
 
-### Focus Areas
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css" height="50"/>
 
-* 🎓 EdTech
-* 🧠 Interactive learning
-* ❓ Quiz systems
-* ⚡ Real-time interaction
-* 💻 Web application development
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,django,flask" height="50"/>
 
-**Repository:** `mav8stro/classquiz-live`
+**Database & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,git,github" height="50"/>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 📈 Developer Philosophy
 
-### 🤖 AI & Data Science
+| Principle | Approach |
+|---|---|
+| ⚡ **Build** | Turn ideas into working products fast |
+| 🧠 **Learn** | Improve through real experimentation |
+| 🏗️ **Engineer** | Think in systems, not just features |
+| 🔍 **Test** | Validate before scaling anything |
+| 🚀 **Iterate** | Never stop improving |
+| 🌍 **Impact** | Solve problems that actually matter |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="55"/>
+<a href="https://github.com/mav8stro"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://dev.to/mav8stro"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
+<a href="https://instagram.com/sal_mx.x_"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </p>
 
-```text
-Python
-Machine Learning
-Data Science
-Artificial Intelligence
-Pandas
-NumPy
-```
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Build.+Learn.+Ship.+Scale.+%F0%9F%9A%80" />
 
-### 💻 Frontend
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F7FF,100:0066FF&section=footer"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" height="55"/>
-</p>
-
-```text
-React.js
-Vite
-JavaScript
-HTML5
-CSS3
-```
-
----
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask" height="55"/>
-</p>
-
-```text
-Python
-Node.js
-Django
-Flask
-REST APIs
-Backend Architecture
-```
-
----
-
-### 🗄️ Database & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,git,github" height="55"/>
-</p>
-
-```text
-MySQL
-PostgreSQL
-Docker
-Linux
-Git
-GitHub
-```
-
----
-
-# ⚙️ Development Approach
-
-```text
-IDEA
- ↓
-Research
- ↓
-MVP
- ↓
-Development
- ↓
-Testing
- ↓
-Optimization
- ↓
-Deployment
- ↓
-Iteration
-```
-
-I focus on **building useful products first**, then improving architecture, performance, reliability, and scalability as the product evolves.
-
----
-
-# 🎯 Current Focus
-
-```text
-🤖 AI Engineering
-📊 Data Science
-⚙️ Backend Architecture
-💻 Full-Stack Development
-🔌 API Integration
-🧠 Intelligent Automation
-🚀 Startup Product Development
-🌍 Real-World Problem Solving
-```
-
----
-
-# 📈 Developer Philosophy
-
-| Principle    | Approach                               |
-| ------------ | -------------------------------------- |
-| ⚡ Build      | Turn ideas into working products       |
-| 🧠 Learn     | Improve through experimentation        |
-| 🏗️ Engineer | Think about systems, not just features |
-| 🔍 Test      | Validate before scaling                |
-| 🚀 Iterate   | Improve continuously                   |
-| 🌍 Impact    | Focus on real-world problems           |
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mav8stro">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://dev.to/mav8stro">
-<img src="https://skillicons.dev/icons?i=devto" height="50"/>
-</a>
-
-<a href="https://instagram.com/sal_mx.x_">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-</p>
-
----
-
-# 🚀 What's Next?
-
-```text
-Build better AI systems.
-Create scalable products.
-Solve meaningful problems.
-Turn ideas into real businesses.
-Keep learning. Keep shipping.
-```
-
----
-
-<h2 align="center">⚡ Build. Learn. Ship. Scale. 🚀</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0066FF,100:00F7FF&text=Keep%20Building%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
+</div>
