@@ -1,62 +1,190 @@
 <h1 align="center">⚡ MUHAMMED SALMAN N ⚡</h1>
-<h3 align="center">AI & DataScience Engineer • Full Stack Developer • Systems Architect • Frruc Founder • Startup Builder</h3>
+
+<h3 align="center">
+AI & Data Science Engineer • Full-Stack Developer • Backend Developer • Startup Builder
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI & DataScience-Engineering-00F7FF?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/FullStack-Development-0066FF?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Architecture-FF6B00?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-00F7FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-0066FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Node.js-FF6B00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Builder-Startup%20Focused-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=AI+Engineer+%7C+Systems+Architect;Full+Stack+Developer+⚡;Building+Scalable+Real-World+Platforms;Backend+Engineering+%2B+AI+Integration;Startup+Focused+Builder+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Engineer;Full+Stack+Developer;Building+Real--World+Digital+Products;Backend+%2B+AI+Integration;Startup+Focused+Builder+🚀" />
 </p>
 
 ---
 
-## 🧠 Overview
+## 🧠 About Me
+
+I'm an **AI & Data Science engineer and full-stack developer** focused on building practical software products that solve real-world problems.
+
+My interests sit at the intersection of:
+
+* 🤖 Artificial Intelligence
+* 📊 Data Science
+* 💻 Full-Stack Development
+* ⚙️ Backend Engineering
+* 🔌 API & System Integration
+* 🚀 Startup & Product Development
+* 🧠 Intelligent Automation
+
+I enjoy taking an idea from **concept → development → testing → deployment → iteration**.
+
+---
+
+## 🏗️ What I Build
 
 ```text
-Muhammed Salman N is a startup-focused developer and AI engineer
-building scalable real-world systems through full-stack development,
-backend engineering, automation, and intelligent workflows.
-
-Focused on execution, scalability, and practical product development.
+AI Applications
+      ↓
+Full-Stack Platforms
+      ↓
+Backend & API Systems
+      ↓
+Data-Driven Applications
+      ↓
+Automation & Intelligent Workflows
+      ↓
+Real-World Products
 ```
 
 ---
 
-## 🏗️ Developer Architecture
+# 🚀 Featured Projects
+
+## ♻️ GreenCycle Nexus
+
+**Smart Waste Management Platform**
+
+GreenCycle Nexus is a technology-focused project exploring digital solutions for **waste management, recycling, and sustainable operations**.
+
+### Focus Areas
+
+* ♻️ Waste management
+* 🌱 Sustainability
+* 📊 Data-driven systems
+* ⚙️ Digital workflows
+* 💻 Full-stack development
+* 🚀 Real-world civic applications
+
+**Repository:** `mav8stro/Greencycle-Nexus`
+
+---
+
+## 🏥 E-Patient
+
+**Digital Healthcare Application**
+
+E-Patient is a healthcare-focused software project designed around the idea of improving **digital interaction between patients, healthcare services, and information systems**.
+
+### Focus Areas
+
+* 🏥 Healthcare technology
+* 👤 Patient-focused systems
+* 📊 Digital information management
+* 🔐 Application workflows
+* 💻 Full-stack development
+
+**Repository:** `mav8stro/E-Patient`
+
+---
+
+## 🤝 Volunteer Nexus
+
+**Volunteer Management Platform**
+
+Volunteer Nexus focuses on building a digital platform for **organizing volunteers, coordinating activities, and managing community-oriented workflows**.
+
+### Focus Areas
+
+* 🤝 Volunteer management
+* 📅 Activity coordination
+* 👥 User management
+* ⚙️ Workflow systems
+* 🌐 Web application development
+
+**Repository:** `mav8stro/Volunteer-Nexus`
+
+---
+
+## ♻️ GreenCycle
+
+**Collaborative Sustainability Project**
+
+A collaborative GreenCycle project focused on exploring technology-driven approaches to **waste management and sustainability**.
+
+### Focus Areas
+
+* ♻️ Recycling & waste management
+* 🌱 Sustainability
+* 💻 Software development
+* 🤝 Collaborative development
+* 🚀 Product experimentation
+
+**Repository:** `muhammedfahim438-ctrl/Greencycle`
+
+---
+
+## 🆘 ZimoFirstAid
+
+**First Aid & Emergency Assistance Platform**
+
+ZimoFirstAid is a project focused on using software to support **first-aid awareness, emergency assistance, and accessible safety information**.
+
+### Focus Areas
+
+* 🆘 Emergency assistance
+* 🩹 First-aid systems
+* 📱 Digital accessibility
+* ⚡ Rapid information access
+* 🌍 Community-focused technology
+
+**Repository:** `mav8stro/zimofirstaid`
+
+---
+
+## 🧠 ClassQuiz Live
+
+**Interactive Quiz & Learning Platform**
+
+ClassQuiz Live is an educational technology project focused on creating an interactive environment for **quizzes, classroom engagement, and real-time learning activities**.
+
+### Focus Areas
+
+* 🎓 EdTech
+* 🧠 Interactive learning
+* ❓ Quiz systems
+* ⚡ Real-time interaction
+* 💻 Web application development
+
+**Repository:** `mav8stro/classquiz-live`
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="55"/>
+</p>
 
 ```text
-Frontend Development
-        ↓
-Backend Engineering
-        ↓
-Database & APIs
-        ↓
-Automation & AI Integration
-        ↓
-Scalable Product Systems
+Python
+Machine Learning
+Data Science
+Artificial Intelligence
+Pandas
+NumPy
 ```
 
 ---
 
-## 🚀 Core Focus Areas
+### 💻 Frontend
 
-```text
-- AI-powered application development
-- Full-stack product engineering
-- Backend architecture & APIs
-- Workflow automation systems
-- Scalable system design
-- Startup-oriented product building
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" height="55"/>
 </p>
@@ -65,13 +193,14 @@ Scalable Product Systems
 React.js
 Vite
 JavaScript
-HTML
-CSS
+HTML5
+CSS3
 ```
 
 ---
 
-### Backend
+### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask" height="55"/>
 </p>
@@ -82,11 +211,13 @@ Node.js
 Django
 Flask
 REST APIs
+Backend Architecture
 ```
 
 ---
 
-### Database & DevOps
+### 🗄️ Database & Infrastructure
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,git,github" height="55"/>
 </p>
@@ -96,137 +227,69 @@ MySQL
 PostgreSQL
 Docker
 Linux
-Git & GitHub
+Git
+GitHub
 ```
 
 ---
 
-## ⚙️ Developer Workflow
+# ⚙️ Development Approach
 
 ```text
-Idea → MVP Development → Testing → Optimization
-→ Scalability Planning → Deployment → Iteration
+IDEA
+ ↓
+Research
+ ↓
+MVP
+ ↓
+Development
+ ↓
+Testing
+ ↓
+Optimization
+ ↓
+Deployment
+ ↓
+Iteration
 ```
 
----
-
-# 🚀 Featured Projects
+I focus on **building useful products first**, then improving architecture, performance, reliability, and scalability as the product evolves.
 
 ---
 
-## ♻️ GreenCycle Nexus
-
-### Smart Waste Management & Civic Automation Platform
-
-<p align="center">
-  <a href="https://github.com/mav8stro/Greencycle-Nexus">
-    <img src="https://img.shields.io/badge/View%20Repository-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+# 🎯 Current Focus
 
 ```text
-A civic automation platform designed to optimize
-waste collection workflows, operational management,
-and smart scheduling systems.
-
-Core Features:
-✔ Multi-role authentication
-✔ Smart pickup workflows
-✔ Automation systems
-✔ Analytics dashboard
-✔ Payment management
-✔ Backend operations
+🤖 AI Engineering
+📊 Data Science
+⚙️ Backend Architecture
+💻 Full-Stack Development
+🔌 API Integration
+🧠 Intelligent Automation
+🚀 Startup Product Development
+🌍 Real-World Problem Solving
 ```
 
 ---
 
-## 🆘 ZimoFirstAid
+# 📈 Developer Philosophy
 
-### Emergency Assistance & First Aid Platform
-
-<p align="center">
-  <a href="https://github.com/mav8stro/zimofirstaid">
-    <img src="https://img.shields.io/badge/View%20Repository-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-```text
-An emergency response and first-aid assistance platform
-focused on accessibility, safety workflows,
-and rapid-response support systems.
-
-Core Features:
-✔ Emergency assistance workflows
-✔ First-aid response system
-✔ Responsive user interface
-✔ Real-world safety concepts
-✔ Backend workflow integration
-✔ Community-focused support
-```
+| Principle    | Approach                               |
+| ------------ | -------------------------------------- |
+| ⚡ Build      | Turn ideas into working products       |
+| 🧠 Learn     | Improve through experimentation        |
+| 🏗️ Engineer | Think about systems, not just features |
+| 🔍 Test      | Validate before scaling                |
+| 🚀 Iterate   | Improve continuously                   |
+| 🌍 Impact    | Focus on real-world problems           |
 
 ---
 
-## 🤝 Volunteer Nexus
-
-### Full-Stack Volunteer Management System
-
-<p align="center">
-  <a href="https://github.com/mav8stro/volunteer_app">
-    <img src="https://img.shields.io/badge/View%20Repository-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-```text
-A volunteer management platform built for
-community coordination, workflow organization,
-and scalable operational management.
-
-Core Features:
-✔ Volunteer registration
-✔ Event coordination
-✔ Role management
-✔ Activity tracking
-✔ Workflow automation
-✔ Scalable architecture
-```
-
----
-
-## 📊 Highlights
-
-```text
-- Real-world project architecture
-- Full-stack engineering experience
-- AI & backend integration focus
-- Scalable workflow-oriented systems
-- Startup-focused product mindset
-```
-
----
-
-## ⚡ Developer Mindset
-
-| Principle | Focus |
-|---|---|
-| ⚡ Build Fast | Rapid MVP execution |
-| 🧠 Learn Continuously | Improve through iteration |
-| 🏗️ Think in Systems | Architect scalable solutions |
-| 🚀 Scale Smart | Optimize before expansion |
-| 💡 Solve Real Problems | Build practical products |
-
----
-
-
-
-## 🔥 Contribution Streak
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mav8stro&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true"/>
@@ -234,79 +297,44 @@ Core Features:
 
 ---
 
-## 🌐 Professional Network
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/mav8stro">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammed-salman-n-337400364">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://dev.to/mav8stro">
-<img src="https://skillicons.dev/icons?i=devto" height="55"/>
+<img src="https://skillicons.dev/icons?i=devto" height="50"/>
 </a>
 
 <a href="https://instagram.com/sal_mx.x_">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🚀 What's Next?
 
 ```text
-🚀 Build scalable production-grade systems
-🧠 Improve AI engineering capabilities
-⚡ Master backend architecture
-🌍 Create impactful real-world products
-📈 Scale startup-focused technical expertise
-🏗️ Build intelligent automation systems
+Build better AI systems.
+Create scalable products.
+Solve meaningful problems.
+Turn ideas into real businesses.
+Keep learning. Keep shipping.
 ```
 
 ---
 
-## 📫 Contact
-
-```text
-Muhammed Salman N
-
-Email:
-muhammedsalmanbinnoor@gmail.com
-
-GitHub:
-https://github.com/mav8stro
-```
-
----
-
-## 💣 One-Line Summary
-
-```text
-AI engineer and full-stack developer building scalable real-world systems through backend engineering, automation, and intelligent product development.
-```
-
----
-
-## 📄 License
-
-```text
-Apache-2.0
-```
-
----
+<h2 align="center">⚡ Build. Learn. Ship. Scale. 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=26&center=true&vCenter=true&width=1000&lines=Build+Fast.;Learn+Faster.;Scale+Everything.;Systems+Over+Complexity.;Execution+Creates+Opportunity."/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0066FF,100:00F7FF&text=Keep%20Building%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0066FF,100:00F7FF&text=Keep%20Building%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
