@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=230&color=0:0E1512,50:1F5F55,100:0E1512&text=MUHAMMED%20SALMAN%20N&fontSize=48&fontColor=EDEDE6&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Startup%20Builder&descAlignY=62&descSize=17" width="100%"/>
 
-<!-- Native, self-animating SVG — this is real vector animation, not a hosted widget. Add pulse.svg to your repo root (or /assets) for this to render. -->
 <img src="./pulse.svg" width="100%" alt="pulse"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=22&duration=2400&pause=800&color=2BB6A3&center=true&vCenter=true&width=900&lines=Idea+%E2%86%92+MVP+%E2%86%92+Ship+%E2%86%92+Iterate;Currently+building%3A+E-Patient;Backend+%2B+AI+%2B+Full-Stack" />
@@ -26,12 +25,12 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| **Role** | AI & Data Science Engineer · Full-Stack Developer |
-| **Specialty** | Backend architecture, API design, applied AI |
-| **Currently building** | E-Patient — an AI-assisted pre-consultation healthcare portal |
-| **Method** | Idea → MVP → Ship → Iterate. Nothing scales before it's proven. |
+|                        |                                                                 |
+| ---------------------- | --------------------------------------------------------------- |
+| **Role**               | AI & Data Science Engineer · Full-Stack Developer               |
+| **Specialty**          | Backend architecture, API design, applied AI                    |
+| **Currently building** | E-Patient — an AI-assisted pre-consultation healthcare portal   |
+| **Method**             | Idea → MVP → Ship → Iterate. Nothing scales before it's proven. |
 
 </div>
 
@@ -103,24 +102,49 @@ One portal, three user types, one AI layer handling pre-consultation intake — 
 
 ## Also Shipping
 
-| Project | What it does | Stack |
-|---|---|---|
-| **GreenCycle Nexus** | Smart waste management platform — digital workflows for recycling and sustainable operations | `Full-Stack` `Civic Tech` |
-| **Volunteer Nexus** | Coordinates volunteers, activities, and community workflows in one place | `Web App` `Workflow` |
-| **GreenCycle** | Collaborative build exploring tech-driven approaches to waste management | `Collaboration` |
-| **ZimoFirstAid** | Fast, accessible first-aid and emergency assistance information | `Accessibility` |
-| **ClassQuiz Live** | Real-time interactive quizzes for classroom engagement | `EdTech` `Real-Time` |
+| Project              | What it does                                                                                                            | Stack                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Poetry Cam**       | AI-powered creative camera that transforms photographs into original poetry using image understanding and generative AI | `Computer Vision` `Generative AI` `Creative Tech` |
+| **GreenCycle Nexus** | Smart waste management platform — digital workflows for recycling and sustainable operations                            | `Full-Stack` `Civic Tech`                         |
+| **Volunteer Nexus**  | Coordinates volunteers, activities, and community workflows in one place                                                | `Web App` `Workflow`                              |
+| **GreenCycle**       | Collaborative build exploring tech-driven approaches to waste management                                                | `Collaboration`                                   |
+| **ZimoFirstAid**     | Fast, accessible first-aid and emergency assistance information                                                         | `Accessibility`                                   |
+| **ClassQuiz Live**   | Real-time interactive quizzes for classroom engagement                                                                  | `EdTech` `Real-Time`                              |
+
+<br/>
+
+### Poetry Cam — A Different Kind of AI
+
+Not every AI application needs to solve a technical or business problem. Some can create experiences.
+
+Poetry Cam explores the intersection of photography, computer vision, and creative writing.
+
+```mermaid
+flowchart LR
+    A[Photograph] --> B[AI Vision]
+    B --> C[Scene & Mood Understanding]
+    C --> D[Generative AI]
+    D --> E[Original Poetry]
+
+    style A fill:#0E1512,stroke:#2BB6A3,color:#EDEDE6
+    style B fill:#132420,stroke:#2BB6A3,color:#EDEDE6
+    style C fill:#17332C,stroke:#2BB6A3,color:#EDEDE6
+    style D fill:#1F5145,stroke:#2BB6A3,color:#EDEDE6
+    style E fill:#2BB6A3,stroke:#2BB6A3,color:#0E1512
+```
+
+**The idea:** A photograph captures what you see. Poetry Cam explores what it makes you feel.
 
 <br/>
 
 ## Stack
 
-| | |
-|---|---|
-| **AI / Data** | Python · Machine Learning · Pandas · NumPy |
-| **Frontend** | React · Vite · JavaScript · HTML5 · CSS3 |
-| **Backend** | Python · Node.js · Django · Flask · REST APIs |
-| **Data / Infra** | MySQL · PostgreSQL · Docker · Linux · Git |
+|                  |                                               |
+| ---------------- | --------------------------------------------- |
+| **AI / Data**    | Python · Machine Learning · Pandas · NumPy    |
+| **Frontend**     | React · Vite · JavaScript · HTML5 · CSS3      |
+| **Backend**      | Python · Node.js · Django · Flask · REST APIs |
+| **Data / Infra** | MySQL · PostgreSQL · Docker · Linux · Git     |
 
 <br/>
 
